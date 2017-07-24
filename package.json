@@ -1,6 +1,6 @@
 {
-	"name": "the--mailer",
-	"version": "0.0.1",
+	"name": "the-mailer",
+	"version": "0.0.2",
 	"description": "Delta store",
 	"main": "lib/main.js",
 	"typings": "lib/main",
@@ -9,15 +9,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/dfreire/the-.git"
+		"url": "git+https://github.com/dfreire/the-mailer.git"
 	},
 	"keywords": [],
 	"author": "dario.freire@gmail.com",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/dfreire/the-/issues"
+		"url": "https://github.com/dfreire/the-mailer/issues"
 	},
-	"homepage": "https://github.com/dfreire/the-#readme",
+	"homepage": "https://github.com/dfreire/the-mailer#readme",
 	"devDependencies": {
 		"@types/node": "^8.0.7",
 		"typescript": "^2.4.1"
